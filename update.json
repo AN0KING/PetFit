@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "v1.1.0-beta.2",
+    "name": "肌伴 1.1.0-beta.2",
+    "draft": false,
+    "prerelease": true,
+    "published_at": "2026-11-26T09:51:57Z",
+    "html_url": "https://github.com/AN0KING/PetFit/releases/tag/v1.1.0-beta.2",
+    "body": "手机端新增版本检查与下载。安装前核对 APK 的 SHA-256、包名、签名和构建号。请覆盖安装，已有训练计划、手记、照片与宠物进度继续使用。\n\nSHA-256: `50e8c11674b49e4fc0fecafb97a3f8d94724ebff78d8a2999169d89670f1f379`",
+    "assets": [
+      {
+        "name": "PetFit-1.1.0-beta.2-vc3.apk",
+        "size": 234379,
+        "digest": "sha256:50e8c11674b49e4fc0fecafb97a3f8d94724ebff78d8a2999169d89670f1f379",
+        "state": "uploaded",
+        "browser_download_url": "https://github.com/AN0KING/PetFit/releases/download/v1.1.0-beta.2/PetFit-1.1.0-beta.2-vc3.apk"
+      }
+    ]
+  }
+]
