@@ -1,19 +1,19 @@
 [
   {
-    "tag_name": "v1.1.0-beta.4",
-    "name": "肌伴 1.1.0-beta.4",
+    "tag_name": "v1.1.0-beta.5",
+    "name": "肌伴 1.1.0-beta.5",
     "draft": false,
     "prerelease": true,
-    "published_at": "2026-11-27T01:06:35Z",
-    "html_url": "https://github.com/AN0KING/PetFit/releases/tag/v1.1.0-beta.4",
-    "body": "在设置页顶部点击「检测最新版本」，即可查看是否有更新。检测无需 DeepSeek 密钥。\n\n发现新版后，点击「下载更新」。应用会核验下载的安装包，再交给安卓系统确认安装。\n\n直接覆盖安装可保留原有计划和记录。\n\nSHA-256: `d717286271100a238d60d7ebba2d1508e1356481c95d549e5e423a4daf328875`",
+    "published_at": "2026-11-27T01:58:42Z",
+    "html_url": "https://github.com/AN0KING/PetFit/releases/tag/v1.1.0-beta.5",
+    "body": "53 只像素伙伴按物种活动和成长。新增冬季限定 S 卡潮汐遗钟、霜隙巡狩和烬月灯蛾。\n\n北京时间 2026-11-27 至 2027-02-01（含），六张 S 卡各为 1/60，总计 10%。活动结束后，已获得的限定伙伴可继续使用。\n\n训练日拍照并记下实际训练部位可获得 2 点肌肉值，当天每记一餐得 1 点。休息日可以空过。新规下每漏一个训练日，续计划需 15 点；补记会重算完成率。\n\n新用户首日生效，老用户在覆盖升级后的次日开始执行新规。既有余额、伙伴和记录保留。\n\nSHA-256: `9da06e160cefcb3e3573ff05b4c61355a68044ea52f90fa4c7b540ac75bf47bf`",
     "assets": [
       {
-        "name": "PetFit-1.1.0-beta.4-vc5.apk",
-        "size": 254984,
-        "digest": "sha256:d717286271100a238d60d7ebba2d1508e1356481c95d549e5e423a4daf328875",
+        "name": "PetFit-1.1.0-beta.5-vc6.apk",
+        "size": 296069,
+        "digest": "sha256:9da06e160cefcb3e3573ff05b4c61355a68044ea52f90fa4c7b540ac75bf47bf",
         "state": "uploaded",
-        "browser_download_url": "https://github.com/AN0KING/PetFit/releases/download/v1.1.0-beta.4/PetFit-1.1.0-beta.4-vc5.apk"
+        "browser_download_url": "https://github.com/AN0KING/PetFit/releases/download/v1.1.0-beta.5/PetFit-1.1.0-beta.5-vc6.apk"
       }
     ]
   }
