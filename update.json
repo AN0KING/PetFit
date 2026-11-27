@@ -1,19 +1,19 @@
 [
   {
-    "tag_name": "v1.1.0-beta.3",
-    "name": "肌伴 1.1.0-beta.3",
+    "tag_name": "v1.1.0-beta.4",
+    "name": "肌伴 1.1.0-beta.4",
     "draft": false,
     "prerelease": true,
-    "published_at": "2026-11-26T10:14:24Z",
-    "html_url": "https://github.com/AN0KING/PetFit/releases/tag/v1.1.0-beta.3",
-    "body": "测试版新增开发者模式。授权后可调整本机可用肌肉值，宠物成长经验独立保存。\n\n抽取伙伴时，卡片旋转放大，再按稀有度闪光揭晓：S 金、A 红、B 蓝、C 绿、D 白。可跳过动画。\n\n从旧版选择覆盖更新，可保留原训练和饮食记录。\n\nSHA-256: `3933b5b60815487961d92a93709676bb454fa802ce638dc0edcbadcc1d177f01`",
+    "published_at": "2026-11-27T01:06:35Z",
+    "html_url": "https://github.com/AN0KING/PetFit/releases/tag/v1.1.0-beta.4",
+    "body": "在设置页顶部点击「检测最新版本」，即可查看是否有更新。检测无需 DeepSeek 密钥。\n\n发现新版后，点击「下载更新」。应用会核验下载的安装包，再交给安卓系统确认安装。\n\n直接覆盖安装可保留原有计划和记录。\n\nSHA-256: `d717286271100a238d60d7ebba2d1508e1356481c95d549e5e423a4daf328875`",
     "assets": [
       {
-        "name": "PetFit-1.1.0-beta.3-vc4.apk",
-        "size": 250888,
-        "digest": "sha256:3933b5b60815487961d92a93709676bb454fa802ce638dc0edcbadcc1d177f01",
+        "name": "PetFit-1.1.0-beta.4-vc5.apk",
+        "size": 254984,
+        "digest": "sha256:d717286271100a238d60d7ebba2d1508e1356481c95d549e5e423a4daf328875",
         "state": "uploaded",
-        "browser_download_url": "https://github.com/AN0KING/PetFit/releases/download/v1.1.0-beta.3/PetFit-1.1.0-beta.3-vc4.apk"
+        "browser_download_url": "https://github.com/AN0KING/PetFit/releases/download/v1.1.0-beta.4/PetFit-1.1.0-beta.4-vc5.apk"
       }
     ]
   }
