@@ -1,5 +1,23 @@
 [
   {
+    "tag_name": "v1.1.0-beta.6",
+    "name": "肌伴 1.1.0-beta.6 · 初版像素伙伴",
+    "draft": false,
+    "prerelease": true,
+    "published_at": "2026-11-27T07:36:26Z",
+    "html_url": "https://github.com/AN0KING/PetFit/releases/tag/v1.1.0-beta.6",
+    "body": "50 只常驻伙伴回归最初的 52 × 52 像素造型，203 个成长形态与 1.0.0 原版逐像素核对一致。三只冬季限定继续使用首次登场的造型。\n\n保留宠物待机与专属技能、训练计划、饮食记录、照片、肌肉值和已解锁形态。已安装肌伴的用户可打开「设置 → 版本与更新 → 检测最新版本」，下载并按系统提示覆盖安装。\n\nSHA-256: `3c35fe9a66fa96e345a21193d169bd343fe28022de02563431d438a66898b031`",
+    "assets": [
+      {
+        "name": "PetFit-1.1.0-beta.6-vc7.apk",
+        "size": 308357,
+        "digest": "sha256:3c35fe9a66fa96e345a21193d169bd343fe28022de02563431d438a66898b031",
+        "state": "uploaded",
+        "browser_download_url": "https://github.com/AN0KING/PetFit/releases/download/v1.1.0-beta.6/PetFit-1.1.0-beta.6-vc7.apk"
+      }
+    ]
+  },
+  {
     "tag_name": "v1.1.0-beta.5",
     "name": "肌伴 1.1.0-beta.5",
     "draft": false,
